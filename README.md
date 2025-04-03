@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Quiz Application - Backend</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            border-bottom: 2px solid #0073e6;
-            padding-bottom: 5px;
-        }
-        code {
-            background: #f4f4f4;
-            padding: 3px 5px;
-            border-radius: 5px;
-        }
-        .icon {
-            font-size: 1.2em;
-        }
-    </style>
-</head>
-<body>
     <h1>📌 Quiz Application - Backend</h1>
     
     <p>A microservices-based Quiz Application built using <strong>Spring Boot</strong> and <strong>PostgreSQL</strong>, focused on providing RESTful APIs for quiz management.</p>
@@ -110,5 +85,3 @@
     
     <h2>📜 License</h2>
     <p>This project is licensed under the <strong>MIT License</strong>.</p>
-</body>
-</html>
