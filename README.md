@@ -62,8 +62,12 @@
             <td>Submit answers and calculate score</td>
         </tr>
     </table>
-    
-    
+
+<h2> Screenshots </h2>
+![Screenshot (299)](https://github.com/user-attachments/assets/586853b3-e0fa-4245-bdc4-9fc3ff3896e9)
+![Screenshot (300)](https://github.com/user-attachments/assets/deb4bfe7-1aa8-4f0c-84a9-469e750f1430)
+
+
 <h2>🤝 Contribution</h2>
     <p>Feel free to contribute to this project by submitting issues or pull requests.</p>
     
