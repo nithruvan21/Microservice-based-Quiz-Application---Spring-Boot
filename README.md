@@ -64,7 +64,8 @@
     </table>
 
 <h2> Screenshots </h2>
-![Screenshot (299)](https://github.com/user-attachments/assets/586853b3-e0fa-4245-bdc4-9fc3ff3896e9)
+<img width="1042" alt="petclinic-screenshot" src="https://github.com/user-attachments/assets/deb4bfe7-1aa8-4f0c-84a9-469e750f1430">
+![Screenshot (299)]()
 ![Screenshot (300)](https://github.com/user-attachments/assets/deb4bfe7-1aa8-4f0c-84a9-469e750f1430)
 
 
