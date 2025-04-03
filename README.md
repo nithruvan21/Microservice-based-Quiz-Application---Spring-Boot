@@ -65,8 +65,8 @@
 
 <h2> Screenshots </h2>
 <img width="1042" alt="petclinic-screenshot" src="https://github.com/user-attachments/assets/deb4bfe7-1aa8-4f0c-84a9-469e750f1430">
-![Screenshot (299)]()
-![Screenshot (300)](https://github.com/user-attachments/assets/deb4bfe7-1aa8-4f0c-84a9-469e750f1430)
+<img width="1042" alt="petclinic-screenshot" src="https://github.com/user-attachments/assets/deb4bfe7-1aa8-4f0c-84a9-469e750f1430">
+
 
 
 <h2>🤝 Contribution</h2>
