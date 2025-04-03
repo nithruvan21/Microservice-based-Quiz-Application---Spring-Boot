@@ -1,8 +1,8 @@
-    <h1>📌 Quiz Application - Backend</h1>
+<h1>📌 Quiz Application - Backend</h1>
     
-    <p>A microservices-based Quiz Application built using <strong>Spring Boot</strong> and <strong>PostgreSQL</strong>, focused on providing RESTful APIs for quiz management.</p>
+<p>A microservices-based Quiz Application built using <strong>Spring Boot</strong> and <strong>PostgreSQL</strong>, focused on providing RESTful APIs for quiz management.</p>
     
-    <h2>📢 Features</h2>
+<h2>📢 Features</h2>
     <ul>
         <li>✅ Add, delete, and generate quiz questions dynamically.</li>
         <li>✅ Create and retrieve quizzes.</li>
@@ -11,8 +11,7 @@
         <li>✅ Inter-microservice communication using <strong>Feign Client</strong>.</li>
         <li>✅ API endpoints tested using <strong>Postman</strong>.</li>
     </ul>
-    
-    <h2>⚙️ Tech Stack</h2>
+<h2>⚙️ Tech Stack</h2>
     <ul>
         <li>🛠️ <strong>Backend:</strong> Spring Boot</li>
         <li>💾 <strong>Database:</strong> PostgreSQL</li>
@@ -20,8 +19,7 @@
         <li>🔄 <strong>Inter-Service Communication:</strong> Feign Client</li>
         <li>🔍 <strong>Testing:</strong> Postman</li>
     </ul>
-    
-    <h2>🚀 Getting Started</h2>
+<h2>🚀 Getting Started</h2>
     <p>Follow these steps to run the project locally:</p>
     <ol>
         <li>Clone the repository:
@@ -35,7 +33,7 @@
         </li>
     </ol>
     
-    <h2>📡 API Endpoints</h2>
+<h2>📡 API Endpoints</h2>
     <p>Base URL: <code>http://localhost:8080</code></p>
     <table border="1" cellspacing="0" cellpadding="5">
         <tr>
@@ -65,7 +63,7 @@
         </tr>
     </table>
     
-    <h2>📂 Project Structure</h2>
+<h2>📂 Project Structure</h2>
     <pre>
     quiz-application-backend/
     ├── src/main/java/com/quizapp/
@@ -80,8 +78,8 @@
     ├── README.md
     </pre>
     
-    <h2>🤝 Contribution</h2>
+<h2>🤝 Contribution</h2>
     <p>Feel free to contribute to this project by submitting issues or pull requests.</p>
     
-    <h2>📜 License</h2>
+<h2>📜 License</h2>
     <p>This project is licensed under the <strong>MIT License</strong>.</p>
