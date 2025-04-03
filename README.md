@@ -63,20 +63,6 @@
         </tr>
     </table>
     
-<h2>📂 Project Structure</h2>
-    <pre>
-    quiz-application-backend/
-    ├── src/main/java/com/quizapp/
-    │   ├── controller/
-    │   ├── service/
-    │   ├── repository/
-    │   ├── model/
-    │   ├── QuizApplication.java
-    ├── src/main/resources/
-    │   ├── application.properties
-    ├── pom.xml
-    ├── README.md
-    </pre>
     
 <h2>🤝 Contribution</h2>
     <p>Feel free to contribute to this project by submitting issues or pull requests.</p>
